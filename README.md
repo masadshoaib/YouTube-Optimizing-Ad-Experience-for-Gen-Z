@@ -1,6 +1,8 @@
 # YouTube – Optimizing Ad Experience for Gen Z
 
-Conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%.
+YouTube wanted to understand what Generation Z viewers preferred when it came to brand-creator partnerships. They wanted to improve the ad-viewing experience for this upcoming generation.
+
+We conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%.
 
 We utilized the social media listening tool, BrandWatch, to get an idea of the general conversation happening around ads among Gen Z viewers. Then, to get specific insights, we identified and analyzed three creator-brand partnerships:
 1) Highly appreciated: Bella Poarch x Moncler
